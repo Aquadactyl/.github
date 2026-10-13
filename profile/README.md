@@ -38,6 +38,7 @@ maintain, and shaped by the people who use it.
 | --- | --- |
 | [Aquadactyl Panel](https://github.com/Aquadactyl/aquadactyl) | The main game server management panel, built with PHP and React. |
 | [Aquadactyl Installer](https://github.com/Aquadactyl/Installer) | Official installation and update tooling for Aquadactyl. |
+| [Manta](https://github.com/Aquadactyl/Manta) | Wings fork pending work |
 | [Aquadactyl Website](https://github.com/Aquadactyl/website) | The public website, guides, and documentation. |
 | [Minecraft Players for Java](https://github.com/Aquadactyl/MCPlayersJava) | Player-list and server integration tools for Minecraft Java Edition. |
 
@@ -59,6 +60,8 @@ When contributing:
 ## Links
 
 - [Aquadactyl website](https://aquadactyl.uk)
+- [Euphoria Development Website](https://euphoriadevelopment.uk)
+- [Support Discord](https://discord.euphoriadevelopment.uk)
 - [Documentation](https://aquadactyl.uk/docs)
 - [GitHub Discussions](https://github.com/orgs/Aquadactyl/discussions)
 - [Report an issue](https://github.com/Aquadactyl/aquadactyl/issues)
